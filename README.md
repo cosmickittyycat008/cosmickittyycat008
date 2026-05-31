@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="170" src="https://media1.tenor.com/m/bhdn5vVbNB8AAAAC/cat-meme-cat-meme-funny.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/bhdn5vVbNB8AAAAC/cat-meme-cat-meme-funny.gif"  />
 
 ###
 
