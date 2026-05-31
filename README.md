@@ -2,6 +2,12 @@
 **Passionate about || Linux scripting || Kernel security || Multiboots Managing||**
 😊😊
 
+###
+
+<img align="right" height="170" src="https://media1.tenor.com/m/bhdn5vVbNB8AAAAC/cat-meme-cat-meme-funny.gif"  />
+
+###
+
 - 🔭 **I’m currently working on:** Shell Scripting
 <!--- 🌱 **I’m currently learning:** 
 <!--- 👯 **I’m looking to collaborate on:** Enter your project name and info
@@ -9,7 +15,7 @@
 - 💬 **Ask me about:** Tech Support
 - 😄 **Pronouns:** Raj >w<
 - ⚡ **Fun fact:** If window feels boring then get urself an arch env 😜
-- 
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/udayraj-vishwakarma-5b308a37a) 
 
@@ -19,6 +25,7 @@
 <!-- Snake Game Repo View -->
 
 <div align="center">
+  
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
